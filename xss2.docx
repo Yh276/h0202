@@ -1,0 +1,41 @@
+
+Online link:https://www.yuque.com/g/wentibuda-zjkk2/mwrsbt/xk4sqw8ov1ycqs01/collaborator/join?token=mWS5ZnO8FsxK8CnQ&source=doc_collaborator# 《Submit report a》
+
+https://github.com/alokjaiswal/Hotel-Management-services-using-MYSQL-and-php
+Building a website
+
+My target audit range
+I am using phpstudy, also known as XP (an integrated software for server and database).
+
+Setting up a server and database
+
+Place the downloaded source code under the built www website.
+
+Connect to your own database. The port has been modified to 3316, along with the username, password, and database name. Link the database.
+
+Click to operate and import the database.
+
+You can now access the built system.
+
+
+
+
+Audit the source code.
+<fieldset>
+                <div>
+                  <label>Item name:</label>
+                  <input type="text" name="name" size="35">
+                </div>
+                <br/>
+                <div>
+                  <label>Item Price(per serving):</label>
+                  <input type="int" name="price" size="35">
+                </div>
+                <br/>
+                <div>
+                <br/>
+                <div class="button"><button type="submit" style="background: rgb(219, 67, 43)"><span><span>Add Dish</span></span></button></div>          
+            </fieldset>
+malicious code:<script>alert(document.cookie)</script>
+
+
